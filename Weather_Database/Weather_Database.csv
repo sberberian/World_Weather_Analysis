@@ -1,0 +1,41 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Sola,VU,-13.88,167.55,79.36,78,94,11.77,overcast clouds
+1,Rikitea,PF,-23.12,-134.97,73.35,74,100,9.47,overcast clouds
+2,Nikolskoye,RU,59.70,30.79,58.87,79,97,2.15,overcast clouds
+3,Michurinsk,RU,52.90,40.49,62.17,93,100,5.09,light rain
+4,Kapaa,US,22.08,-159.32,83.19,71,20,8.23,few clouds
+5,Hilo,US,19.73,-155.09,90.28,69,0,5.14,clear sky
+6,Castro,BR,-24.79,-50.01,46.40,96,100,2.36,overcast clouds
+7,Rawson,AR,-43.30,-65.10,49.66,55,61,3.65,broken clouds
+8,Kropotkin,RU,45.44,40.58,70.97,52,6,5.46,clear sky
+9,Atuona,PF,-9.80,-139.03,77.50,72,0,9.88,clear sky
+10,Kaitangata,NZ,-46.28,169.85,44.71,61,30,2.58,scattered clouds
+11,Hermanus,ZA,-34.42,19.23,50.81,89,94,3.59,light rain
+12,Miyako,JP,39.64,141.95,81.46,76,100,1.16,overcast clouds
+13,Hobart,AU,-42.88,147.33,53.26,72,75,4.63,broken clouds
+14,Sioux Lookout,CA,50.10,-91.92,56.37,67,0,1.81,clear sky
+15,San Giovanni Rotondo,IT,41.70,15.72,67.62,78,0,4.63,clear sky
+16,Bluff,NZ,-46.60,168.33,44.80,56,8,4.2,clear sky
+17,Puerto Ayora,EC,-0.74,-90.35,69.55,93,93,2.68,overcast clouds
+18,Ambon,ID,-3.70,128.18,86.14,70,40,1.54,scattered clouds
+19,Albany,US,42.60,-73.97,67.89,84,13,1.57,few clouds
+20,Kahului,US,20.89,-156.47,89.62,59,20,13.89,few clouds
+21,Tuktoyaktuk,CA,69.45,-133.04,46.62,82,100,7.22,overcast clouds
+22,Ambulu,ID,-8.35,113.61,82.24,72,36,1.17,scattered clouds
+23,Nanortalik,GL,60.14,-45.24,44.67,98,100,3.77,moderate rain
+24,Barrow,US,71.29,-156.79,46.42,93,100,6.69,light rain
+25,Kalmunai,LK,7.42,81.82,80.74,64,97,1.66,overcast clouds
+26,Saint Andrews,US,34.05,-81.13,84.29,60,40,2.06,scattered clouds
+27,El Retorno,CO,2.33,-72.63,71.01,97,74,0.8,broken clouds
+28,Pevek,RU,69.70,170.31,43.14,90,33,1.63,scattered clouds
+29,Mahajanga,MG,-15.72,46.32,66.22,59,20,4.12,few clouds
+30,Isangel,VU,-19.55,169.27,77.11,57,75,5.14,broken clouds
+31,Talnakh,RU,69.49,88.40,49.21,60,72,4.75,broken clouds
+32,Santa Cruz,BO,-17.80,-63.17,53.06,76,0,1.54,clear sky
+33,Busselton,AU,-33.65,115.33,57.65,69,70,1.96,broken clouds
+34,Carnarvon,AU,-24.87,113.63,62.17,40,0,8.32,clear sky
+35,Tuscaloosa,US,33.21,-87.57,78.58,89,0,1.54,clear sky
+36,Cape Town,ZA,-33.93,18.42,56.12,94,20,3.09,few clouds
+37,Paamiut,GL,61.99,-49.67,43.50,93,100,5.18,light rain
+38,Butaritari,KI,3.07,172.79,81.84,73,14,6.59,few clouds
+39,Saint-Philippe,RE,-21.36,55.77,65.79,80,84,6.39,light rain
